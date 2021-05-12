@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Leo32345!!
-- 👀 I’m interested in HTML, CSS, PHP, and SwiftUI.
-- 🌱 I’m currently learning SwiftUI.
+- 👋  Hi, I’m @Leo32345!!
+- 👀  I’m interested in HTML, CSS, PHP, and SwiftUI.
+- 🌱  I’m currently learning SwiftUI.
